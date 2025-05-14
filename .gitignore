@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# dotenv environment variables
+.env
+.env.*
+
+# Optional npm cache directory
+.npm/
+
+# Coverage directory used by testing tools like istanbul
+coverage/
+
+# Build artifacts
+dist/
+build/
+
+# Docker files
+Dockerfile
+docker-compose*.yml
+*.tar
+
+# VSCode
+.vscode/
+
+# MacOS & system files
+.DS_Store
+Thumbs.db
+
+# Local development
+*.local
+*.swo
+*.swp
+
+# Debuggers
+node-inspector.js
+
+# Dependency directories
+jspm_packages/
+
+# Binaries
