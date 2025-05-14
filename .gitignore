@@ -31,8 +31,6 @@ dist/
 build/
 
 # Docker files
-Dockerfile
-docker-compose*.yml
 *.tar
 
 # VSCode
